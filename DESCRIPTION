@@ -1,8 +1,10 @@
 Package: massspecgolem
 Title: Mass Spec app
 Version: 0.0.0.9000
-Authors@R: person('Jordi', 'Martinez Blanch', email = 'blanch@gmail.com', role = c('cre', 'aut'))
-Description: It shows spectrograms and also MS1 and MS2 specs. It also does this and that.
+Authors@R: 
+    person("Jordi", "Martinez Blanch", , "blanch@gmail.com", role = c("cre", "aut"))
+Description: It shows spectrograms and also MS1 and MS2 specs. It also
+    does this and that.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.2),
